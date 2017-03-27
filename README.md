@@ -33,7 +33,7 @@ you must consider how to represent these immaterial events with visual
 symbols or metaphors. Use arrows, text boxes, symbols, etc. to
 describe what will happen when your sketch becomes animated.
 
-  *Scan/photograph this hand-drawn image and save it as a .JPG or .PNG
+   *Scan/photograph this hand-drawn image and save it as a .JPG or .PNG
 file and add this image to your web page.*
 
 ## Learning Objectives

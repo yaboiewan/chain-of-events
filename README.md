@@ -8,7 +8,7 @@
 
 Your sketch will include two components:
 
-1.**A simple written "story" (no more than 500 words) about a
+1. **A simple written "story" (no more than 500 words) about a
 sequence of things that cause other things to happen.** Write in the
 present tense. Your story will take the form of a written description
 of discrete events in which an action precipitates another action,
@@ -17,9 +17,9 @@ physical (e.g. "An anvil falls through a roof.") or non-physical
 (e.g. "A country declares war on another country."). The beginning and
 end state of your sequence should be clearly articulated.
 
-  *Save your story as a web page published to GitHub.*
+   *Save your story as a web page published to GitHub.*
 
-2.**An illustration of how your events might be "set into motion" in
+2. **An illustration of how your events might be "set into motion" in
 a 2D game space with gravity and other physical forces that can be
 simulated by the Unity 2D game engine.** Gravity will most likely set
 off an initial action, and all resulting events should automatically
@@ -27,7 +27,7 @@ occur without manipulation by outside agents (i.e. a "player"). The
 hand-illustrated mockup of your story should visualize a static-screen
 2D game space.
 
-  Note: If the events in your story are immaterial or abstract (e.g. a
+   Note: If the events in your story are immaterial or abstract (e.g. a
 person tells someone something, which precipitates a mental decision),
 you must consider how to represent these immaterial events with visual
 symbols or metaphors. Use arrows, text boxes, symbols, etc. to

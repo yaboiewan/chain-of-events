@@ -17,7 +17,7 @@ physical (e.g. "An anvil falls through a roof.") or non-physical
 (e.g. "A country declares war on another country."). The beginning and
 end state of your sequence should be clearly articulated.
 
-*Save your story as a web page published to GitHub.*
+ *Save your story as a web page published to GitHub.*
 
 2. **An illustration of how your events might be "set into motion" in
 a 2D game space with gravity and other physical forces that can be
@@ -27,14 +27,14 @@ occur without manipulation by outside agents (i.e. a "player"). The
 hand-illustrated mockup of your story should visualize a static-screen
 2D game space.
 
-Note: If the events in your story are immaterial or abstract (e.g. a
+ Note: If the events in your story are immaterial or abstract (e.g. a
 person tells someone something, which precipitates a mental decision),
 you must consider how to represent these immaterial events with visual
 symbols or metaphors. Use arrows, text boxes, symbols, etc. to
 describe what will happen when your sketch becomes animated.
 
-*Scan/photograph this hand-drawn image and save it as a .JPG or .PNG
- file and add this image to your web page.*
+ *Scan/photograph this hand-drawn image and save it as a .JPG or .PNG
+file and add this image to your web page.*
 
 ## Learning Objectives
 1. Consider embedded narrative components for a game-like environment.

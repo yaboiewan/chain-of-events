@@ -1,6 +1,6 @@
 *IDEA 135: Games at Work*
 
-# Sketch 10: Chain of Events
+# Sketch 9: Chain of Events
 
 **Imagine and illustrate an imaginary chain of events.**
 
